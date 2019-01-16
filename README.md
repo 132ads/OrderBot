@@ -23,3 +23,10 @@ A Discord ordering bot comissioned by @mio.
 
 !start/stop to start/stop the bot.
 
+# Installation
+Clone into any directory and run.
+You will need to input your token into botconfig.json
+```
+npm install
+node index.js
+```
